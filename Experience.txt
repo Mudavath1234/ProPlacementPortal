@@ -1,0 +1,31 @@
+------------ProPlacementPortal--------------
+
+Experience About The Project,we've created a website using a tech stack that involves
+
+    Website URL: http://rgu.000.pe/placement/
+
+    Frontend Technologies:
+        HTML
+        CSS
+        Bootstrap
+        JavaScript
+
+    Backend Technologies:
+        PHP
+        SQL
+
+    Development Environment:
+        Integrated Development Environment (IDE): Visual Studio Code (VS Code) for coding.
+        Local Server Setup: XAMPP is used.
+        Database Management: PhpMyAdmin is employed for efficient handling of databases.
+        Additional IDE: PhpStorm is used with the PhpIntelphense extension, enhancing PHP development.
+
+    Summary:
+        The frontend technologies contribute to the visual and interactive aspects of the website.
+        Backend technologies, PHP and SQL, handle data processing and storage.
+        The development environment includes a suite of tools for coding, local server setup, and database management.
+        PhpStorm, along with PhpIntelphense extension, adds advanced features for PHP coding.
+
+    Overall Impression:
+        The website is developed using a well-rounded tech stack with attention to both frontend and backend technologies.
+        The choice of development tools indicates a focus on efficiency and best practices in web development
